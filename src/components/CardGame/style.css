@@ -1,2 +1,5 @@
 .card-game {
+  width: 106px;
+  height: 160px;
+  background-color: var(--color-fiery-rose);
 }

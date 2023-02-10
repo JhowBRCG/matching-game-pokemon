@@ -2,9 +2,10 @@ import "./style.css";
 
 function CardGame() {
   return `
-    <article class="card-game">
-        <img src= "images/pokemon-card.png" alt = "Carta Pokemon"> 
+    <article class="card-gam">
+        <img src= "images/pokemon-card.png" alt = "Carta Pokemon" class="image">    
     </article>
+
     `;
 }
 
